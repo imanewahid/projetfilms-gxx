@@ -1,6 +1,4 @@
-# Gxx-202526 — Mini-project Template
 
-A ready-to-use template for web development mini-projects that combines **Flask**, **SQL**, **JavaScript**, **HTML** and **CSS**.
 
 > **GitHub Pages demo** → the `docs/` folder contains a fully static version of the site hosted on GitHub Pages — no server required. The full application (with a real database) is meant to be run locally.
 
